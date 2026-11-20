@@ -1,2 +1,10 @@
 *
 !.gitignore
+!gallery/**
+!gallery/
+!photos/**
+!photos/
+!reports/**
+!reports/
+!supports/**
+!supports/
